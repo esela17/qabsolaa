@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "984494773799",
+    "project_id": "qabsola-68c64",
+    "storage_bucket": "qabsola-68c64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984494773799:android:4c7e337964f4aa448f2002",
+        "android_client_info": {
+          "package_name": "com.example.qabsola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8C2YMnOxaBtW4jh0PQa8cJnldUssQ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984494773799:android:fbcb413cc763a8ad8f2002",
+        "android_client_info": {
+          "package_name": "com.example.qabsolaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8C2YMnOxaBtW4jh0PQa8cJnldUssQ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
